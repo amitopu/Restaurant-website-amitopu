@@ -1,15 +1,15 @@
 {
-  "port": 4005,
-  "pythonPort": 4007,
-  "publicDir": "dist/app",
-  "pages": {
-    "/": {
-      "name": "Home"
-    }
-  },
-  "publicUrlAssetMap": {
-    "/app-assets": "..\\assets"
-  },
-  "organizationName": "amitopu",
-  "projectName": "Restaurant-website-amitopu"
+    "port": 4005,
+    "pythonPort": 4007,
+    "publicDir": "dist/app",
+    "pages": {
+        "/": {
+            "name": "Home"
+        }
+    },
+    "publicUrlAssetMap": {
+        "/app-assets": "..\\assets"
+    },
+    "organizationName": "amitopu",
+    "projectName": "Restaurant_X"
 }
