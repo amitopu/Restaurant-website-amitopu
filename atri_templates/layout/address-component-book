@@ -1,0 +1,238 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "a04aff46-1018-46af-a36c-ad3f240bb80a",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "62cd3311-8f76-4b19-8ff9-1ebe6177b3c6",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "fontFamily": "DM Sans",
+          "fontWeight": 500,
+          "backgroundClip": "border-box",
+          "WebkitBackgroundClip": "border-box",
+          "width": "30px",
+          "height": "30px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "03ee9803-717c-43c2-9076-c1101511aed7",
+    "childId": "a04aff46-1018-46af-a36c-ad3f240bb80a"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "3eeccaed-85fc-4884-a118-967a17f89d08",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "62cd3311-8f76-4b19-8ff9-1ebe6177b3c6",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/616da2c3a1718503bfe60f49_location-icon-restaurante-x-template.svg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "03ee9803-717c-43c2-9076-c1101511aed7",
+    "childId": "3eeccaed-85fc-4884-a118-967a17f89d08"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "95636bdc-c6a3-4e70-bd78-3445ebf6e2fa",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "62cd3311-8f76-4b19-8ff9-1ebe6177b3c6",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "",
+          "fontFamily": "DM Sans",
+          "fontWeight": 500,
+          "color": "#717070ff",
+          "fontSize": "16px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "bdb05bd6-9069-498b-b5cf-b7150702721d",
+    "childId": "95636bdc-c6a3-4e70-bd78-3445ebf6e2fa"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "4dd6711f-a312-4f86-86a1-2ed532e3c4cd",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "62cd3311-8f76-4b19-8ff9-1ebe6177b3c6",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "bdb05bd6-9069-498b-b5cf-b7150702721d",
+    "childId": "4dd6711f-a312-4f86-86a1-2ed532e3c4cd"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "2add7ee8-71ff-40f2-bcfd-469c87e9f754",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "62cd3311-8f76-4b19-8ff9-1ebe6177b3c6",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex",
+          "columnGap": "25px",
+          "width": "50%",
+          "alignItems": "center",
+          "justifyContent": "center"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "bd5c82c1-4c89-4200-bfe9-1e97da067d69",
+    "childId": "2add7ee8-71ff-40f2-bcfd-469c87e9f754"
+  },
+  {
+    "id": "54179675-6690-4531-a93f-16a7d59391ad",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "62cd3311-8f76-4b19-8ff9-1ebe6177b3c6",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "03ee9803-717c-43c2-9076-c1101511aed7",
+    "childId": "54179675-6690-4531-a93f-16a7d59391ad"
+  },
+  {
+    "id": "dc3e42a2-d4f8-4d29-9906-c29afac6f034",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "62cd3311-8f76-4b19-8ff9-1ebe6177b3c6",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "bdb05bd6-9069-498b-b5cf-b7150702721d",
+    "childId": "dc3e42a2-d4f8-4d29-9906-c29afac6f034"
+  },
+  {
+    "id": "740aa501-1c75-4ee1-a579-69af2d8ce690",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "62cd3311-8f76-4b19-8ff9-1ebe6177b3c6",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "bd5c82c1-4c89-4200-bfe9-1e97da067d69",
+    "childId": "740aa501-1c75-4ee1-a579-69af2d8ce690"
+  },
+  {
+    "id": "03ee9803-717c-43c2-9076-c1101511aed7",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "bd5c82c1-4c89-4200-bfe9-1e97da067d69",
+        "index": 1
+      },
+      "alias": "Image37"
+    }
+  },
+  {
+    "id": "bdb05bd6-9069-498b-b5cf-b7150702721d",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "bd5c82c1-4c89-4200-bfe9-1e97da067d69",
+        "index": 2
+      },
+      "alias": "TextBox92"
+    }
+  },
+  {
+    "id": "bd5c82c1-4c89-4200-bfe9-1e97da067d69",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Flex101"
+    }
+  }
+]

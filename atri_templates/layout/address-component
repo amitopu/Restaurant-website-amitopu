@@ -1,0 +1,234 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "71489957-669a-4815-bc36-59411149acf9",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "50%",
+          "fontFamily": "DM Sans",
+          "fontWeight": 500,
+          "color": "#8d8d8dff",
+          "fontSize": "16px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "6a73a9b1-5941-42a8-86bf-7644253caf2d",
+    "childId": "71489957-669a-4815-bc36-59411149acf9"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "5fd6ae9b-046d-448b-9954-8ac1f41f0de7",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "text": "837 W. Marshall Lane Marshalltown, IA 50158, Los Angeles"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "6a73a9b1-5941-42a8-86bf-7644253caf2d",
+    "childId": "5fd6ae9b-046d-448b-9954-8ac1f41f0de7"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "dc2ce3c0-3a05-4c9d-b53b-5d9f2ea1041d",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "fontFamily": "DM Sans",
+          "fontWeight": 500,
+          "backgroundClip": "border-box",
+          "WebkitBackgroundClip": "border-box"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "5fb8520a-56c0-48b1-adc7-0221dfceaa70",
+    "childId": "dc2ce3c0-3a05-4c9d-b53b-5d9f2ea1041d"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "d82faf24-8935-4090-a066-65fd9721219c",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/616da2c3a1718503bfe60f49_location-icon-restaurante-x-template.svg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "5fb8520a-56c0-48b1-adc7-0221dfceaa70",
+    "childId": "d82faf24-8935-4090-a066-65fd9721219c"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "c221436f-5d00-4221-af6c-d17aa5cc1ab7",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex",
+          "columnGap": "20px",
+          "width": "350px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "0f4609cc-49c1-4c40-a706-52995791e6f2",
+    "childId": "c221436f-5d00-4221-af6c-d17aa5cc1ab7"
+  },
+  {
+    "id": "e3580b37-b286-4186-b658-a9ede61ffad0",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "6a73a9b1-5941-42a8-86bf-7644253caf2d",
+    "childId": "e3580b37-b286-4186-b658-a9ede61ffad0"
+  },
+  {
+    "id": "f70756fb-a58d-48dc-97c9-e49887c476a3",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "5fb8520a-56c0-48b1-adc7-0221dfceaa70",
+    "childId": "f70756fb-a58d-48dc-97c9-e49887c476a3"
+  },
+  {
+    "id": "1d939515-5b98-4ec2-9e0c-3bc88bd58c74",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "0f4609cc-49c1-4c40-a706-52995791e6f2",
+    "childId": "1d939515-5b98-4ec2-9e0c-3bc88bd58c74"
+  },
+  {
+    "id": "6a73a9b1-5941-42a8-86bf-7644253caf2d",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "TextBox",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "0f4609cc-49c1-4c40-a706-52995791e6f2",
+        "index": 2
+      },
+      "alias": "TextBox33"
+    }
+  },
+  {
+    "id": "5fb8520a-56c0-48b1-adc7-0221dfceaa70",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "0f4609cc-49c1-4c40-a706-52995791e6f2",
+        "index": 1
+      },
+      "alias": "Image12"
+    }
+  },
+  {
+    "id": "0f4609cc-49c1-4c40-a706-52995791e6f2",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Flex32"
+    }
+  }
+]
